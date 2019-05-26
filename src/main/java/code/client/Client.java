@@ -30,6 +30,9 @@ public class Client extends Thread {
         }catch (Exception e){
             e.printStackTrace();
         }
+
+        //这是一次尝试
+
     }
 
     //发送消息
